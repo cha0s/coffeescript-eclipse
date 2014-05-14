@@ -73,7 +73,7 @@ public class CoffeeScriptScanner implements ITokenScanner {
 	private IToken asIToken(CoffeeScriptTokenId coffeeScriptTokenId) {
 		Token token = tokens.get(coffeeScriptTokenId.getCategory());
 		if (token == null) {
-			RGB rgb = new RGB(0, 0, 0);
+			RGB rgb = new RGB(183, 157, 109);
 			Color background = null;
 			int style = SWT.NORMAL;
 			switch (coffeeScriptTokenId.getCategory()) {

@@ -7,10 +7,11 @@ http://eclipse.org/
 ### FEATURES:
 
 * Syntax highlighting
+* **Specialized for dark themes**
 
 ### UPDATE SITE:
 
-`https://raw.github.com/dstepanov/coffeescript-eclipse/master/coffeescript-eclipse.update-site/`
+`https://raw.github.com/cha0s/coffeescript-eclipse/master/coffeescript-eclipse.update-site/`
 
 ### VERSION HISTORY:
 
